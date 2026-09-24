@@ -162,7 +162,6 @@ This project is open source and available under the MIT License.
 
 - **Author**: Harjot Singh
 - **GitHub**: [harjotsingh17](https://github.com/harjotsingh17)
-- **LinkedIn**: [Add your LinkedIn profile]
 
 ## References
 
